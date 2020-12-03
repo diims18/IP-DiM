@@ -3,8 +3,8 @@
 
 """
     This file is part of IPGeoLocation tool.
-    Copyright (C) 2015-2016 @maldevel
-    https://github.com/maldevel/IPGeoLocation
+    Copyright (C) 2015-2016 @Diims18
+    https://github.com/diims18/IP-DiM
     
     IPGeoLocation - Retrieve IP Geolocation information 
     Powered by http://ip-api.com
@@ -25,7 +25,7 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__ = 'maldevel'
+__author__ = 'Diims18'
 
 import csv
 from xml.etree import ElementTree as etree
