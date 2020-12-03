@@ -25,10 +25,10 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__   = 'maldevel'
-__twitter__  = '@maldevel'
+__author__   = 'Diims18'
+__instagram__  = '@diims18'
 __version__  = '2.0.4'
-__year__     = '2015-2016'
+__year__     = '2015-2020'
 
 
 from argparse import RawTextHelpFormatter
